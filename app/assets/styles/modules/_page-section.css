@@ -9,5 +9,9 @@
         background-color: $mainBlue;
         color: #FFF;
     } 
+    
+    &--t-margin{
+        margin-top: 2rem;
+    }
       
 }
