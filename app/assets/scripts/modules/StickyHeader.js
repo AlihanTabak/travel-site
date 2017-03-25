@@ -11,7 +11,6 @@ class StickyHeader {
     this.headerLinks = $(".primary-nav a");
     this.myLinks = $(".my-links");
     this.createPageSectionWaypoints();
-    this.resetPageSectionWaypoints();
     this.addSmoothScrolling();
     
   }
